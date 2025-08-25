@@ -4,24 +4,26 @@ _Inspired by A Song of Ice and Fire, Berserk, Code Geass, and Mushoku Tensei_
 
 ## Core Philosophy
 
-**The World is Larger Than Any Hero**: Like ASOIAF, no single character controls the narrative. History, politics, and consequence drive events as much as individual choice.
+**Hero's Journey in a Living World**: Kael follows the classic path of growth and transformation, but the world doesn't revolve around him—it has its own momentum, politics, and agendas that he must navigate and understand.
 
-**Beauty and Horror Intertwined**: Following Berserk's approach, moments of profound beauty exist alongside brutal reality. Light is precious because darkness is real.
+**The World is Larger Than Any Hero**: Like ASOIAF, history, politics, and consequence drive events as much as individual choice. Kael's personal journey intersects with forces far greater than himself.
 
-**Intelligence as Power**: Echoing Code Geass, wit, strategy, and understanding systems matter as much as raw strength. Every character is playing a game, even if they don't know the rules.
+**Beauty and Horror Intertwined**: Following Berserk's approach, moments of profound beauty exist alongside brutal reality. Kael's growth comes through experiencing both light and darkness.
 
-**Magic as Science and Art**: Like Mushoku Tensei, magic has rules, costs, and cultural significance. It's both systematic and deeply personal.
+**Intelligence as Power**: Echoing Code Geass, wit, strategy, and understanding systems matter as much as raw strength. Kael must learn not just to fight, but to think and read the game others are playing.
+
+**Magic as Science and Art**: Like Mushoku Tensei, magic has rules, costs, and cultural significance. Kael's magical growth parallels his emotional and intellectual development.
 
 ---
 
 ## Narrative Voice and Structure
 
-### Multi-POV Epic Style
+### Close Third Person Limited (Kael-Focused)
 
-- **Chapter-based POV shifts**: Each chapter anchored to one character's perspective
-- **Political chess pieces**: Characters are players and pawns simultaneously
-- **Interconnected consequences**: Actions in one POV chapter ripple through others
-- **Historical weight**: Past events cast long shadows, revealed through multiple perspectives
+- **Hero's journey structure**: Kael's personal growth arc drives the narrative forward
+- **World as crucible**: The complex political landscape becomes the testing ground for his development
+- **Learning through consequence**: Kael discovers the world's moral ambiguity by experiencing it firsthand
+- **Growing understanding**: His perspective expands from personal survival to seeing the bigger picture
 
 ### Narrative Tone
 
@@ -248,10 +250,10 @@ _Example_: _"The incantation required precise intonation—not just the words, b
 
 ### Plot Level
 
-- [ ] Does each POV chapter advance the overall story?
-- [ ] Are political motivations clear and logical?
-- [ ] Do consequences from previous chapters carry forward?
-- [ ] Is the magic system consistent and costly?
+- [ ] Does each chapter advance Kael's understanding of the larger story?
+- [ ] Are political motivations clear through Kael's observations and deductions?
+- [ ] Do consequences from previous events affect Kael's current situation?
+- [ ] Is the magic system consistent and costly in Kael's experience?
 
 ### Character Level
 
@@ -275,7 +277,7 @@ _Example_: _"The incantation required precise intonation—not just the words, b
 
 - Don't kill characters purely for shock value
 - Avoid making politics so complex they become confusing
-- Balance multiple POVs—don't let any storyline stagnate
+- Keep Kael's perspective engaging even when he's not the most powerful player
 
 **Berserk Pitfalls**:
 
