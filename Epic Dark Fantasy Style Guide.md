@@ -31,6 +31,7 @@ _Inspired by A Song of Ice and Fire, Berserk, Code Geass, and Mushoku Tensei_
 - **Morally complex**: No pure heroes or villains—everyone serves their own version of justice
 - **Consequence-heavy**: Every choice matters; victories come with costs
 - **Atmospheric dread**: Underlying tension even in peaceful moments
+- **Mythic and emotional beats**: Those mythic beats - the death of innocence, the price of power, love as both salvation and damnation - they're what elevate the political complexity and tactical elements into something that hits readers on a deeper level.
 
 ---
 

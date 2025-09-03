@@ -41,6 +41,7 @@ Beauty and horror intertwined (Berserk): Light precious because darkness is real
 Intelligence as power (Code Geass): Strategy, understanding systems matter as much as strength
 Consequence-heavy: Every choice has weight, victories come with costs
 Atmospheric tension: Underlying unease even in peaceful moments
+Those mythic beats - the death of innocence, the price of power, love as both salvation and damnation - they're what elevate the political complexity and tactical elements into something that hits readers on a deeper level.
 
 ## Technical Notes
 
