@@ -45,8 +45,6 @@ Atmospheric tension: Underlying unease even in peaceful moments
 ## Technical Notes
 
 Avoid exposition dumps: Information revealed through action and dialogue
-Child's perspective consistency: Kael only knows what a sheltered 10-year-old would know
-Medieval technology level: No modern physics concepts or terminology
 Foreshadowing through atmosphere: Hint at larger forces without explicit revelation
 
 ## Common Phrases to Use
@@ -61,5 +59,4 @@ Physical descriptions that suggest larger truths
 
 "Adults do X" generalizations from Kael
 Over-explaining motivations or world rules
-Making Kael too heroic or mature for his age
-Info-dumping about politics or history
+Making Kael too heroic or mature for his
